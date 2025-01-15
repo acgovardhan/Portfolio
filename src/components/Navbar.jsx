@@ -12,7 +12,6 @@ const Navbar = () => {
       <a href='https://github.com/acgovardhan'target='_blank' rel="noopener noreferrer"><FaInstagram/></a>
       <a href='https://github.com/acgovardhan'target='_blank' rel="noopener noreferrer"><FaGithub/></a>
       
-      
     </div>
     </nav>
     </>
