@@ -13,7 +13,7 @@ const Hero = () => {
           <h2 className='text-white text-3xl lg:text-8xl lg:mt-10 pb-2 tracking-tighter'>A C GOVARDHAN</h2>
           <span className='bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-2xl lg:text-5xl text-transparent tracking-tight'>Full Stack Web Developer</span>
           <p className='text-white mt-[-5px] lg:mt-3 text-sm my-2 max-w-lg py-6 lg:text-xl text-justify leading-relaxed tracking-tighter'>{HERO_CONTENT}</p>
-          <a href='#' target='_blank' className='mt-[-10px] lg:mt-0 p-3 bg-white rounded-full lg:p-4 text-sm text-stone-800 mb-10'>Download Resume</a>
+          <a href='#' target='_blank' className='mt-[-10px] lg:mt-0 p-3 bg-white rounded-full lg:p-4 text-sm text-stone-800 mb-10 hover:bg-stone-900 hover:text-white active:bg-stone-100 active:text-stone-600'>Download Resume</a>
           </div>
         </div>
       </div>
