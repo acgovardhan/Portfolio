@@ -1,6 +1,5 @@
-import Experience from "./components/Experience";
 import Footer from "./components/Footer";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Technologies from "./components/technologies";
@@ -21,7 +20,6 @@ export default function App() {
       <Hero/>
       <Technologies/>
       <Projects/>
-      {/* <Experience/> */}
       <Footer/>
       </>
 
