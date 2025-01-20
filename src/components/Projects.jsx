@@ -5,11 +5,11 @@ const Projects = () => {
     <div>
       <div className='flex justify-center'><h1 className='text-white text-3xl lg:text-6xl'>Projects</h1></div>
       <div className='text-white mt-20 ml-20 flex items-start space-x-10'>
-  {/* Left: Image */}
-  <div className='flex justify-center'>
-  <div className='flex-shrink-0'>
-    <img src={ecom} width={200} alt="E-Commerce Website" />
-  </div>
+      {/* Left: Image */}
+      <div className='flex justify-center'>
+      <div className='flex-shrink-0'>
+        <img src={ecom} width={200} alt="E-Commerce Website" />
+      </div>
   
   {/* Right: Text Content */}
   <div className='text-right'>
@@ -31,6 +31,9 @@ const Projects = () => {
     </div>
     </div>
     </div>
+
+
+    
   </div> 
   )
 }
