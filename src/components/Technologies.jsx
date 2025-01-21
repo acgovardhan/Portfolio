@@ -1,5 +1,4 @@
 import React from 'react'
-import { FiFigma } from 'react-icons/fi'
 import { FaPython } from 'react-icons/fa'
 import { DiJava } from 'react-icons/di'
 import { FaC } from 'react-icons/fa6'
