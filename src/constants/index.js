@@ -1,7 +1,7 @@
 import ecom from "../assets/projects/e-com.png";
 import taskman from "../assets/projects/taskman.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB.`;
+export const HERO_CONTENT = `I am a passionate developer with expertise in front-end technologies like React and core web technologies such as JavaScript, HTML, and CSS. I also have experience with programming languages like Java, C, and Python, enabling me to approach development from a versatile and well-rounded perspective.`;
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
@@ -28,26 +28,3 @@ export const EXPERIENCES = [
     technologies: ["Python", "NumPy", "pandas", "Jupyter"],
   },
 ];
-
-export const PROJECTS = [
-  {
-    title: "E-Commerce Website",
-    image: ecom,
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  },
-  {
-    title: "Task Management App",
-    image: taskman,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
-];
-
-export const CONTACT = {
-  address: "Kerala, India",
-  phoneNo: "+91 8075305485",
-  email: "alanmathewvarghese231@gmail.com",
-};
