@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { FaGithub, FaLinkedin, FaArrowDown } from "react-icons/fa"
-import profile from "../assets/profile.jpg"
+import profile from "/profile.jpg"
 import { HERO_CONTENT, EDUCATION } from "../constants"
 
 const fadeUp = (delay = 0) => ({

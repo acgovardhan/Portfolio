@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { FaGithub, FaLinkedin } from "react-icons/fa"
-import logo from "../assets/logo.png"
+import logo from "/logo.png"
 
 
 const NAV_LINKS = [
